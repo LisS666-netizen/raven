@@ -1,0 +1,122 @@
+[
+    {
+      "model": "profiles.division",
+      "fields": {
+        "name": "USALinkSystem",
+        "country": "Moldova",
+        "city": "Balti"
+      }
+    },
+    {
+      "model": "profiles.division",
+      "fields": {
+        "name": "USALinkSystem",
+        "country": "Moldova",
+        "city": "Chisinau"
+      }
+    },
+    {
+      "model": "profiles.division",
+      "fields": {
+        "name": "USALinkSystem",
+        "country": "Moldova",
+        "city": "Orhei"
+      }
+    },
+    {
+      "model": "profiles.division",
+      "fields": {
+        "name": "USALinkSystem",
+        "country": "India",
+        "city": "Indiana"
+      }
+    },
+    {
+      "model": "profiles.division",
+      "fields": {
+        "name": "USALinkSystem",
+        "country": "USA",
+        "city": "Los-Angeles"
+      }
+    },
+    {
+      "model": "profiles.division",
+      "fields": {
+        "name": "USALinkSystem",
+        "country": "Philippines",
+        "city": "philipinka"
+      }
+    },
+    {
+        "model": "profiles.gender",
+        "fields": {
+          "name": "Мужской"
+        }
+    },
+    {
+        "model": "profiles.gender",
+        "fields": {
+          "name": "Женский"
+        }
+    },
+    {
+        "model": "profiles.gender",
+        "fields": {
+          "name": "Средний"
+        }
+    },
+    {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Junior Mobile Developer"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Marketing & Support"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Junior Tester & QA"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Graphic & Web Design"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Junior Back-end Developer"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Middle Mobile Developer"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Middle Marketing & Support"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Middle Baack-end Developer"
+        }
+      },
+      {
+        "model": "profiles.position",
+        "fields": {
+          "name": "Middle Front-end Developer"
+        }
+      }
+  ]
