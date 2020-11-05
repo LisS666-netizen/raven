@@ -1,0 +1,31 @@
+{
+    "model":"profiles.atsuser",
+    "pk":1,
+    "fields":{
+        "password":"pbkdf2_sha256$216000$0mdjqmWbURBl$7yl9vnBkZSLgIy5HRe8gYmrULy2/7jkN9p6/vtL0Tno=",
+        "last_login":"2020-11-05T11:17:42.259Z",
+        "is_superuser":true,
+        "username":"admin",
+        "first_name":"",
+        "last_name":"",
+        "email":"",
+        "is_staff":true,
+        "is_active":true,
+        "date_joined":"2020-11-05T11:17:12.818Z",
+        "middle_name":null,
+        "job_email":null,
+        "phone":null,
+        "avatar":"",
+        "birthday":null,
+        "gender":null,
+        "github":null,
+        "division":null,
+        "position":null,
+        "groups":[
+            
+        ],
+        "user_permissions":[
+            
+        ]
+    }
+}

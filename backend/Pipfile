@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+asgiref = "==3.3.0"
+django-cors-headers = "==3.5.0"
+djangorestframework = "==3.12.1"
+pytz = "==2020.4"
+sqlparse = "==0.4.1"
+Django = "==3.1.3"
+Pillow = "==8.0.1"
+django-3-jet = {file = "https://github.com/Barukimang/django-jet/archive/dev.zip"}
+
+[requires]
+python_version = "3.9"

@@ -27,6 +27,7 @@ INSTALLED_APPS = [
 
     #   local
     'src.profiles',
+    'src.restapi',
 ]
 
 MIDDLEWARE = [

@@ -1,0 +1,14 @@
+Projects
+    ->  id
+    ->  name
+    ->  member
+            ->  users
+    ->  steps
+
+
+Step
+    ->  id
+    ->  name
+    ->  description
+    ->  author
+    ->  data
